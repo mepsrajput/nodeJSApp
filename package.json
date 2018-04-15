@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pradeep Singh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
