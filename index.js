@@ -9,7 +9,7 @@ app.set('view engine','ejs');
 
 /* GET request on root */
 app.get('/', function(req, res, next) {
-	res.render('index', { title: 'Udacity Student Alumni Network' });
+	res.render('index', { title: 'PSRajput' });
 });
 
 /* GET request on any other node other than above nodes */
